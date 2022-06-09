@@ -6,7 +6,7 @@ I’m a creative front-end engineer. I have experience collaborating with both s
 * 🌍  I'm based in Rotterdam, NL and San Jose, CA
 * 🖥️  See my portfolio at [Brainil.io](http://brainil.io/)
 * ✉️  You can contact me at [brainilioir@gmail.com](mailto:brainilioir@gmail.com)
-* 🧠  I'm learning ThreeJS, Advanced React & Datastructures & Algorithms
+* 🧠  I'm learning ThreeJS, Actualizing modern UI/UX designs & Datastructures & Algorithms
 
 ### Skills
 
