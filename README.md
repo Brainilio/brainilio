@@ -7,7 +7,7 @@ I’m a creative frontend developer. I have experience collaborating with both s
 * 🖥️  See my portfolio at [Brainil.io](http://brainil.io/)
 * ✉️  You can contact me at [brainilioir@gmail.com](mailto:brainilioir@gmail.com)
 * 🧠  In 2023, I'm learning ThreeJS, and staying up to date with new technologies.
-cons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a></p>
+
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/brainilio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brainilio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/brainilio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
